@@ -48,6 +48,11 @@
 }
 
 ._3vCzSrrXZzZjVJFZNg9SGu {
+    position: fixed !important;
+    top: 8px !important;
+    right: 260px !important;
+    left: auto !important;
+    transform: none !important;
     width: fit-content !important;
     box-shadow: none !important;
     background: none !important;
